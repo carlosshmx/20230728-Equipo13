@@ -2,3 +2,4 @@
 -Chiara Pozzi
 -Lourdes Redondo
 -Christian Veloz
+-Zarith Nino
